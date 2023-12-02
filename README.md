@@ -1,6 +1,6 @@
 # Meal App
 
-Meals.com is a simple web application built with vanilla JavaScript to search and save meals from TheMeal API. No external JavaScript libraries or frameworks are used; Bootstrap is utilized for styling.
+ Hello There!👋, Meals.com is a simple web application built with vanilla JavaScript to search and save meals from TheMeal API. No external JavaScript libraries or frameworks are used; Bootstrap is utilized for styling.
 
 ## Table of Contents
 
@@ -44,4 +44,4 @@ Before you begin, make sure you have a modern web browser and a text editor.
 
 ## Hosting Link
 
-  - 
+  - https://bhuvneshkumaranand.github.io/Meal-App/
