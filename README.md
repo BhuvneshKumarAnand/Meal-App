@@ -1,6 +1,6 @@
-# Meal Tracker App
+# Meal App
 
-A simple web application built with vanilla JavaScript to search and save meals from TheMeal API. No external JavaScript libraries or frameworks are used; Bootstrap is utilized for styling.
+Meals.com is a simple web application built with vanilla JavaScript to search and save meals from TheMeal API. No external JavaScript libraries or frameworks are used; Bootstrap is utilized for styling.
 
 ## Table of Contents
 
@@ -8,15 +8,14 @@ A simple web application built with vanilla JavaScript to search and save meals 
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
+- [Hosting Link](#hosting-link)
 
 ## Introduction
 
-The Meal Tracker App is a straightforward web application designed to interact with TheMeal API. Users can search for meals, add them to their favorites, and view detailed information about each meal.
+The Meal App is a straightforward web application designed to interact with TheMeal API. Users can search for meals, add them to their favorites, and view detailed information about each meal.
 
 ## Features
 
@@ -38,9 +37,11 @@ The Meal Tracker App is a straightforward web application designed to interact w
 
 Before you begin, make sure you have a modern web browser and a text editor.
 
-### Installation
+## Acknowledgments
 
-1. Clone the repository:
+  - Bootstrap for providing easy and responsive styling.
+  - TheMeal API for providing meal data.
 
-   ```bash
-   git clone https://github.com/yourusername/meal-tracker-app.git
+## Hosting Link
+
+  - 
