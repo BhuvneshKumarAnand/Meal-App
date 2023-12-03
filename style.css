@@ -44,6 +44,7 @@ body {
     justify-content: space-evenly;
     margin-left: 10%;
     margin-right: 10%;
+    margin-bottom: 5%;
 }
 
 input[type="text"] {
@@ -81,6 +82,10 @@ button {
 .btn:hover {
     color: azure;
     background-color: rgb(214, 12, 12)
+}
+
+#search-results {
+    margin: 2% 10%;
 }
 
 
