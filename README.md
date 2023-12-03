@@ -31,6 +31,12 @@ The Meal App is a straightforward web application designed to interact with TheM
   - Display a persistent list of all favorite meals.
   - Each meal in the list has a "Remove from Favorites" button to remove it from the list.
 
+- **reset button**
+  - resets the page but the item on favorite list remains intact.
+
+- **Contact Us Dropdown**
+  - contains the link to my Linkedin & Github
+
 ## Getting Started
 
 ### Prerequisites
